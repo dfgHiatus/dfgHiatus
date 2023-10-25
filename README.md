@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is dfgHiatus and I develop mods, plugins and content for [NeosVR](https://neos.com/) and [VRChat](https://hello.vrchat.com/)!
+My name is dfgHiatus and I develop mods, plugins, and content for [Resonite](https://resonite.com/) and [VRChat](https://hello.vrchat.com/)!
 
 A little about me:
 - I've been following the VR scene for 6-ish years now, I'm currently researching the impact eye and face tracking technologies have in Social VR environments 👀👄 
